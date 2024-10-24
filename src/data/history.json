@@ -1,0 +1,31 @@
+[
+    {
+      "role": "Legal Intern",
+      "organisation": "Under Advocate Sanjeet Kumar",
+      "startDate": "May, 2022",
+      "endDate": "November, 2022",
+      "experiences": ["Assisted in cases on constitutional, criminal, and arbitration law.", 
+                      "Gained practical legal experience, enhancing research and analytical skills."],
+      "imageSrc": "history/legalIcon1.png"
+    },
+    {
+      "role": "Legal Assistant",
+      "organisation": "Under Advocate Ujjawal Bhushan",
+      "startDate": "November, 2022",
+      "endDate": "Feburary, 2023",
+      "experiences": ["Assisted in legal matters including consumer, service, and land laws.", 
+                      "Developed practical skills in legal research, case analysis, and application."],
+      "imageSrc": "history/legalIcon2.png"
+    },
+    {
+      "role": "Legal Intern",
+      "organisation": "Under Advocate Digvijay Narayan Singh",
+      "startDate": "March, 2023",
+      "endDate": "May, 2023",
+      "experiences": [
+        "Assisted in civil procedure, negotiable instruments, and partnership law.",
+        "Gained practical legal knowledge through research, case analysis, application."
+      ],
+      "imageSrc": "history/legalIcon3.png"
+    }
+  ]

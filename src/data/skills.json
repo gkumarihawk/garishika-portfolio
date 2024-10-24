@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Debate",
+      "imageSrc": "skills/debateIcon.png"
+    },
+    {
+      "title": "Analytical Skills",
+      "imageSrc": "skills/AnalyticalIcon.png"
+    },
+    {
+      "title": "Document Prep",
+      "imageSrc": "skills/documentIcon.png"
+    },
+    {
+      "title": "Legal Assistant",
+      "imageSrc": "skills/legalAssistantIcon.png"
+    },
+    {
+      "title": "Case Study",
+      "imageSrc": "skills/caseStudyIcon.png"
+    },
+    {
+      "title": "Management",
+      "imageSrc": "skills/managementIcon.png"
+    },
+    {
+      "title": "Swimming",
+      "imageSrc": "skills/swimmingIcon.png"
+    },
+    {
+      "title": "Art",
+      "imageSrc": "skills/artIcon.png"
+    }
+  ]

@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Certificate 1",
+      "imageSrc": "projects/cert2.png",
+      "description": "I have received formal training in Bollywood dance and have actively participated in several talent shows, demonstrating my commitment to excellence in this dynamic performance discipline and showcasing my passion and skill in this vibrant art form.",
+      "skills": ["Dynamic", "Expressive", "Collaborative", "Innovative"]
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/cert1.png",
+      "description": "Assisted in consumer, service, and land laws while gaining experience in legal research and case analysis.",
+      "skills": ["Assistance", "Research", "Analysis", "Collaboration"]
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/cert3.png",
+      "description": "I successfully completed the four-week online certificate course, “Foundations for a Legal Education (FLE),” offered by NLSIU, Bengaluru, in June 2024. The course covered fundamental legal concepts, critical thinking, and analytical skills essential for pursuing legal studies.",
+      "skills": ["Legal Acumen", "Critical Thinking", "Analytical Skills", "Problem Solving"]
+    }
+  ]
